@@ -1,6 +1,6 @@
 # Hunter CS Club Website
 
-This is the Official Hunter CS Clubs Website.
+This is the Official Hunter CS Clubs Website Repository.
 
 If you have any with the steps mention it on the discord server and someone will help you
 
