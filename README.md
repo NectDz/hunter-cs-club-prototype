@@ -10,7 +10,7 @@ To run the project, you will need to have [Node.js](https://nodejs.org/en/) inst
 
 2. npm run dev
 
-// If you have any issues mention it on the discord server and someone will help you
+If you have any issues mention it on the discord server and someone will help you
 
 ## Contributing
 
