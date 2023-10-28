@@ -2,6 +2,8 @@
 
 This is the Official Hunter CS Clubs Website.
 
+If you have any with the steps mention it on the discord server and someone will help you
+
 ## Run the Project
 
 To run the project, you will need to have [Node.js](https://nodejs.org/en/) installed.
@@ -9,8 +11,6 @@ To run the project, you will need to have [Node.js](https://nodejs.org/en/) inst
 1. npm install
 
 2. npm run dev
-
-If you have any issues mention it on the discord server and someone will help you
 
 ## Contributing
 
